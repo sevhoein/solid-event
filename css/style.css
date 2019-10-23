@@ -4,3 +4,19 @@ Template Name: Solid Event
 Author: Severin Höin
 
 */
+
+body,
+html {
+    margin: 0;
+    padding:0;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+}
